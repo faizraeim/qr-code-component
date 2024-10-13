@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://github.com/faizraeim/qr-code-component)
-- Live Site URL: (https://faizraeim.github.io/qr-code-component/)
+- Solution URL: [Click Here](https://github.com/faizraeim/qr-code-component)
+- Live Site URL: [Click Here](https://faizraeim.github.io/qr-code-component/)
 
 ## My process
 
@@ -42,6 +42,7 @@ I will be continuing my development by learning more about CSS and HTML and also
 
 ## Author
 
-- Website - [Add your name here](https://www.faizey.co)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/faizraeim)
-- Twitter - [@yourusername](https://www.twitter.com/faizraeim)
+- Website - [Faizey.co](https://www.faizey.co)
+- Frontend Mentor - [@faizraeim](https://www.frontendmentor.io/profile/faizraeim)
+- LinkedIn - [@faizey](https://www.linkedin.com/in/faizey)
+- Twitter - [@faizraeim](https://www.twitter.com/faizraeim)
